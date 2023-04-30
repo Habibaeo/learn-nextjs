@@ -53,7 +53,7 @@ vi   Add below line to the top of hardhat.config.ts - if abve plugin is installe
 import "@nomicfoundation/hardhat-toolbox";
 ```
 
-# 3.  Writing and compiling smart contracts:
+vii  Writing and compiling smart contracts:
 
 	create a solidity file in the contracts subfolder.
 	type/copy the contract code new solidity file.
